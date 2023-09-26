@@ -1,2 +1,4 @@
 # ayan-sarkar
-my first project
+This is my first Git Repositary.
+<br>
+Author - Ayan Sarkar.
